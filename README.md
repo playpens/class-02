@@ -1,8 +1,3 @@
-# Template README
-
-Use the following markdown as a starting point for each project's `README.md` file.
-
-```markdown
 # LAB - 02
 
 ## About Me
@@ -13,7 +8,6 @@ This is the about me projects, 1st Day. Adding some info about me, and 4 questio
 
 ### Links and Resources
 
-* [submission PR](http://xyz.com)
 * Any Links you used as reference
 
 ### Lighthouse Accessibility Report Score
